@@ -64,7 +64,7 @@ a,
 .styled-pagination li a:hover, .styled-pagination li a.active,
 .comming-soon .emailed-form .form-group input[type="submit"], .comming-soon .emailed-form button,
 .sidebar .search-box .form-group input:focus + button, .sidebar .search-box .form-group button:hover{
-	background-color:#2471A3
+	background-color:#2471A380
       
 }
 
@@ -142,7 +142,7 @@ a,
 	.main-menu .navbar-collapse > .navigation > li.current > a,
 	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
 	.header-style-two.inner-header .main-menu .navigation > li > a{
-		background-color:#4d4cc1;
+		background-color:#2471A3
 	}
 	
 }
